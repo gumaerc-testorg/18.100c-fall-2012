@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding practice midterm 1 solutions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-100c-real-analysis-fall-2012/4cc3cbbe88488796d2bb767ea0fa9cbe_MIT18_100CF12_Solutions.pdf
+file: /media/courses/18-100c-real-analysis-fall-2012/4cc3cbbe88488796d2bb767ea0fa9cbe_MIT18_100CF12_Solutions.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: '18.100C Real Analysis: Practice Midterm 1 Solutions'
 uid: 4cc3cbbe-8848-8796-d2bb-767ea0fa9cbe
