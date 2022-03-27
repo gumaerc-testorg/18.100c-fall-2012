@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 226ba8b1-2ddf-ea8d-85cd-deb0a6bd7789
 resourcetype: Document
 title: '18.100C Real Analysis: LaTex Exercise 1'
 uid: 16a8ac6e-1c8c-2017-b8aa-5477906b461e

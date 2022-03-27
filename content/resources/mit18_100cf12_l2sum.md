@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
+parent_uid: 0de56ab8-61e6-fd83-c0af-79b956f08d7c
 resourcetype: Document
 title: '18.100C Real Analysis: Lecture 2 Summary'
 uid: 44b016f2-af1f-63e8-4bce-01708b01326d

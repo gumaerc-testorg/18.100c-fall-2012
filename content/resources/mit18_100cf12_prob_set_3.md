@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 578e6eca-8f91-8e69-9b07-a940ddf8c79e
 resourcetype: Document
 title: '18.100C Real Analysis: Problem Set 3 Solution'
 uid: 38c932a8-8e4b-9d77-f15f-426e483b7eba

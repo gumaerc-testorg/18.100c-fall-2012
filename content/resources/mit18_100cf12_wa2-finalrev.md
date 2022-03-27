@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 226ba8b1-2ddf-ea8d-85cd-deb0a6bd7789
 resourcetype: Document
 title: '18.100C Real Analysis: Writing Assignment 2 Revision'
 uid: 77971c96-13f0-8735-2695-81e3cfb4fb78

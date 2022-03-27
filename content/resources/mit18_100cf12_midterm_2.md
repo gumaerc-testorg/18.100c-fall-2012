@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 63b82bc0-03dd-b46d-e423-ffec8109e927
 resourcetype: Document
 title: '18.100C Real Analysis: Practice Midterm 2 Solutions'
 uid: f90b5bbf-bd57-b42d-0c57-829e11fb61c8

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 63b82bc0-03dd-b46d-e423-ffec8109e927
 resourcetype: Document
 title: '18.100C Real Analysis: Practice Final Exam'
 uid: 142d99f1-707e-9d98-b024-b955382d94e7
