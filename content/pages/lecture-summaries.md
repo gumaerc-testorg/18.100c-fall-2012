@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: 0de56ab8-61e6-fd83-c0af-79b956f08d7c
 ---
@@ -222,7 +225,7 @@ TOPICS
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Review of exponential, log, sine, cosine; _eit\= cos(t)_ + _isin(t)_ (PDF)]({{< baseurl >}}/resources/mit18_100cf12_l23sum)
+[Review of exponential, log, sine, cosine; _e{{< sub "it" >}}\= cos(t)_ + _isin(t)_ (PDF)]({{< baseurl >}}/resources/mit18_100cf12_l23sum)
 {{< tdclose >}}
 
 {{< trclose >}}

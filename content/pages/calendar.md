@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: ce455e95-0027-904b-6d51-5c17a210487e
 ---
@@ -315,7 +317,7 @@ Fundamental theorem of calculus; back to power series: continuity, differentiabi
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Review of exponential, log, sine, cosine; _eit\= cos(t)_ + _isin(t)_
+Review of exponential, log, sine, cosine; _e{{< sup "{{< sub \"it\" >}}" >}}\= cos(t)_ + _isin(t)_
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 10 due

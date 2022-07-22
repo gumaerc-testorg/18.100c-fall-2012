@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c27be170-81a2-fd2a-8f4b-7d755162bbd3
 ---
@@ -302,7 +305,7 @@ pp. 133–4, and the parts of Theorem 8.1 which we didn't do before.
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Review of exponential, log, sine, cosine; _eit\= cos(t)_ + _isin(t)_
+Review of exponential, log, sine, cosine; _e{{< sup "{{< sub \"it\" >}}" >}}\= cos(t)_ + _isin(t)_
 {{< tdclose >}}
 {{< tdopen >}}
 pp. 178–84
