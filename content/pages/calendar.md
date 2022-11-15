@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, exams, and assignment
+  due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: ce455e95-0027-904b-6d51-5c17a210487e
 ---
 
-The lecture topics have accompanying [lecture summaries]({{< baseurl >}}/pages/lecture-summaries).
+The lecture topics have accompanying {{% resource_link 0de56ab8-61e6-fd83-c0af-79b956f08d7c "lecture summaries" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
