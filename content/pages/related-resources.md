@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to resources mathematical  and scientific
+  writing.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -8,7 +10,7 @@ uid: 012de074-58ab-c464-201a-2692ddac95c7
 
 Here are some helpful links:
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Errors In Mathematical Writing" (PDF)](http://www.math.uconn.edu/~kconrad/math216/mathwriting.pdf)  by Keith Conrad.
+["Errors In Mathematical Writing" (PDF)](http://www.math.uconn.edu/~kconrad/math216/mathwriting.pdf)  by Keith Conrad.
 
 "[The Science of Scientific Writing](https://www.e-education.psu.edu/styleforstudents/c10_p6.html)" by George D. Gopen and Judith A. Swan.
 

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of recitation topics, associated homework
+  assignments, grading policy, and attendance policy.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -41,7 +43,7 @@ Introduction to LaTeX with list of resources
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Writing Assignment 1: Propose and discuss various definitions of "gap" (PDF)]({{< baseurl >}}/resources/mit18_100cf12_writing_1)
+{{% resource_link b7fab661-f8cc-370d-3b0c-72d4310c0f37 "Writing Assignment 1: Propose and discuss various definitions of \"gap\" (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +61,7 @@ Proof-writing strategies: when to use what; Writing readable LaTeX code.
 
 {{< tdclose >}}
 {{< tdopen >}}
-[LaTex Exercise 1: Tables and figures (PDF)]({{< baseurl >}}/resources/mit18_100cf12_latexexrcs1)
+{{% resource_link 16a8ac6e-1c8c-2017-b8aa-5477906b461e "LaTex Exercise 1: Tables and figures (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +85,7 @@ Two precise questions for the review session
 Review session
 {{< tdclose >}}
 {{< tdopen >}}
-[Writing Assignment 2: Proofs in context (PDF)]({{< baseurl >}}/resources/mit18_100cf12_writing_2)
+{{% resource_link e667846e-5fdc-1c8f-0847-b72e268929eb "Writing Assignment 2: Proofs in context (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +137,7 @@ Peer reviews
 Small group peer review
 {{< tdclose >}}
 {{< tdopen >}}
-[Final revision of Writing Assignment 2 (PDF)]({{< baseurl >}}/resources/mit18_100cf12_wa2-finalrev)
+{{% resource_link 77971c96-13f0-8735-2695-81e3cfb4fb78 "Final revision of Writing Assignment 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +157,7 @@ Commenting on p-set problems
 {{< tdopen >}}
 
 
-[Writing Assignment 3: Writing for different audiences (PDF)]({{< baseurl >}}/resources/mit18_100cf12_writing_3);
+{{% resource_link 934b870b-2137-477f-0169-429075ed526a "Writing Assignment 3: Writing for different audiences (PDF)" %}};
 
 Two precise questions for the review session
 
@@ -213,7 +215,7 @@ Tables, figures, beamer and bibliographies in LaTeX.
 
 {{< tdclose >}}
 {{< tdopen >}}
-[LATEX Exercise 2: Slides and graphics (PDF)]({{< baseurl >}}/resources/mit18_100cf12_latexexrcs21)
+{{% resource_link 3d284ee0-3792-e910-bdaa-7d9fd368490e "LATEX Exercise 2: Slides and graphics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
