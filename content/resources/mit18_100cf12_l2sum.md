@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding fields, ordered fields,
   least upper bounds, the real numbers.
 file: /courses/18-100c-real-analysis-fall-2012/44b016f2af1f63e84bce01708b01326d_MIT18_100CF12_l2sum.pdf
+file_size: 574085
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

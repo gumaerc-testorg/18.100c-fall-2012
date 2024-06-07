@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding LATEX exercise 2: slides
   and graphics.'
 file: /courses/18-100c-real-analysis-fall-2012/3d284ee03792e910bdaa7d9fd368490e_MIT18_100CF12_LaTeXExrcs21.pdf
+file_size: 137110
 file_type: application/pdf
 learning_resource_types:
 - Recitations
