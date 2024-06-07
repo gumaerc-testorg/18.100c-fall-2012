@@ -4,6 +4,7 @@ description: This resource contains information regarding the archimedean princi
   decimal expansion; intersections of closed intervals; complex numbers, cauchy-schwarz
   .
 file: /courses/18-100c-real-analysis-fall-2012/18a0f72059e532f187d2576375b4167d_MIT18_100CF12_l3sum.pdf
+file_size: 604286
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
