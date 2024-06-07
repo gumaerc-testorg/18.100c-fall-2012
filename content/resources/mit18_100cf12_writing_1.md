@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding writing assignment 1: propose
   and discuss various definitions of "gap". '
 file: /courses/18-100c-real-analysis-fall-2012/b7fab661f8cc370d3b0c72d4310c0f37_MIT18_100CF12_Writing_1.pdf
+file_size: 132945
 file_type: application/pdf
 learning_resource_types:
 - Recitations

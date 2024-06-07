@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding practice midterm 1 solutions.
 file: /courses/18-100c-real-analysis-fall-2012/4cc3cbbe88488796d2bb767ea0fa9cbe_MIT18_100CF12_Solutions.pdf
+file_size: 180433
 file_type: application/pdf
 learning_resource_types:
 - Exams
