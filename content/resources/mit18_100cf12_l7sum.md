@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding limit points and compactness;
   compactness of closed bounded subsets in euclidean space.
-file: /courses/18-100c-real-analysis-fall-2012/938bde177c3947085a0c03f422cb31fc_MIT18_100CF12_l7sum.pdf
+file: /ol-ocw-studio-app/courses/18-100c-real-analysis-fall-2012/938bde177c3947085a0c03f422cb31fc_MIT18_100CF12_l7sum.pdf
 file_size: 593635
 file_type: application/pdf
 learning_resource_types:
