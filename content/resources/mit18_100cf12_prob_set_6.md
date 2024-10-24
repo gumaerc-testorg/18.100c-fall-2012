@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set 6 solution.
-file: /courses/18-100c-real-analysis-fall-2012/24692de5a668ed94cdad9ce9c76dd96c_MIT18_100CF12_Prob_Set_6.pdf
+file: /ol-ocw-studio-app/courses/18-100c-real-analysis-fall-2012/24692de5a668ed94cdad9ce9c76dd96c_MIT18_100CF12_Prob_Set_6.pdf
 file_size: 209804
 file_type: application/pdf
 learning_resource_types:
