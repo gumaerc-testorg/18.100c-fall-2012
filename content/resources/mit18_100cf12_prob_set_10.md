@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set 10 solution.
-file: /ol-ocw-studio-app/courses/18-100c-real-analysis-fall-2012/c70a0ab2c22db0cd9e4dcfde05018808_MIT18_100CF12_Prob_Set_10.pdf
+file: /courses/18-100c-real-analysis-fall-2012/c70a0ab2c22db0cd9e4dcfde05018808_MIT18_100CF12_Prob_Set_10.pdf
 file_size: 177952
 file_type: application/pdf
 learning_resource_types:

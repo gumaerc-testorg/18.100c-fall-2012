@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding practice final exam solutions.
-file: /ol-ocw-studio-app/courses/18-100c-real-analysis-fall-2012/61e61991478f4dc228cead08190f0132_MIT18_100CF12_Final.pdf
+file: /courses/18-100c-real-analysis-fall-2012/61e61991478f4dc228cead08190f0132_MIT18_100CF12_Final.pdf
 file_size: 209688
 file_type: application/pdf
 learning_resource_types:

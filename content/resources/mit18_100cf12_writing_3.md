@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding writing assignment 3: writing
   for different audiences. '
-file: /ol-ocw-studio-app/courses/18-100c-real-analysis-fall-2012/934b870b2137477f0169429075ed526a_MIT18_100CF12_Writing_3.pdf
+file: /courses/18-100c-real-analysis-fall-2012/934b870b2137477f0169429075ed526a_MIT18_100CF12_Writing_3.pdf
 file_size: 159937
 file_type: application/pdf
 learning_resource_types:
