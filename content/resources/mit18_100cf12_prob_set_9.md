@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set 9 solution.
-file: /ol-ocw-studio-app/courses/18-100c-real-analysis-fall-2012/b2cb3e93b2359c893d94248a540dc231_MIT18_100CF12_Prob_Set_9.pdf
+file: /courses/18-100c-real-analysis-fall-2012/b2cb3e93b2359c893d94248a540dc231_MIT18_100CF12_Prob_Set_9.pdf
 file_size: 152538
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding subsequential limits, lim
   sup and lim inf, series.
-file: /ol-ocw-studio-app/courses/18-100c-real-analysis-fall-2012/be087073df80fa3353ea3ccd6c8ba0bb_MIT18_100CF12_l9sum.pdf
+file: /courses/18-100c-real-analysis-fall-2012/be087073df80fa3353ea3ccd6c8ba0bb_MIT18_100CF12_l9sum.pdf
 file_size: 608030
 file_type: application/pdf
 learning_resource_types:

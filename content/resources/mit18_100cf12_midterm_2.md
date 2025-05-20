@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding practice midterm 2 solutions.
-file: /ol-ocw-studio-app/courses/18-100c-real-analysis-fall-2012/f90b5bbfbd57b42d0c57829e11fb61c8_MIT18_100CF12_Midterm_2.pdf
+file: /courses/18-100c-real-analysis-fall-2012/f90b5bbfbd57b42d0c57829e11fb61c8_MIT18_100CF12_Midterm_2.pdf
 file_size: 145625
 file_type: application/pdf
 learning_resource_types:

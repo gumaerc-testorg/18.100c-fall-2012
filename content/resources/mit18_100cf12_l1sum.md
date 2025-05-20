@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture summary on sets, ordered sets, ordering pairs of numbers, and
   the largest element (maximum) and smallest element (minimum) of a subset of an ordered
   set.
-file: /ol-ocw-studio-app/courses/18-100c-real-analysis-fall-2012/7c7ef89385baa9fc8f92d7713872cecf_MIT18_100CF12_l1sum.pdf
+file: /courses/18-100c-real-analysis-fall-2012/7c7ef89385baa9fc8f92d7713872cecf_MIT18_100CF12_l1sum.pdf
 file_size: 600287
 file_type: application/pdf
 learning_resource_types:
