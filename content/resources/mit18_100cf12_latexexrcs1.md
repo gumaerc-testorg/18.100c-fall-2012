@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding LaTex exercise 1: tables
   and figures.'
-file: /ol-ocw-studio-app/courses/18-100c-real-analysis-fall-2012/16a8ac6e1c8c2017b8aa5477906b461e_MIT18_100CF12_LaTeXExrcs1.pdf
+file: /courses/18-100c-real-analysis-fall-2012/16a8ac6e1c8c2017b8aa5477906b461e_MIT18_100CF12_LaTeXExrcs1.pdf
 file_size: 164538
 file_type: application/pdf
 learning_resource_types:
