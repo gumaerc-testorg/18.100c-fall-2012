@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding convergent sequences in
   metric spaces; cauchy sequences, completeness; cauchy's theorem.
-file: /courses/18-100c-real-analysis-fall-2012/36804475959670653be2ca8211df91d7_MIT18_100CF12_l8sum.pdf
+file: /ol-ocw-studio-app/courses/18-100c-real-analysis-fall-2012/36804475959670653be2ca8211df91d7_MIT18_100CF12_l8sum.pdf
 file_size: 580334
 file_type: application/pdf
 learning_resource_types:

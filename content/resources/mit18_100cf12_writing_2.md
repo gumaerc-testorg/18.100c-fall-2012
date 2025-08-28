@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding writing assignment 2: proofs
   in context.'
-file: /courses/18-100c-real-analysis-fall-2012/e667846e5fdc1c8f0847b72e268929eb_MIT18_100CF12_Writing_2.pdf
+file: /ol-ocw-studio-app/courses/18-100c-real-analysis-fall-2012/e667846e5fdc1c8f0847b72e268929eb_MIT18_100CF12_Writing_2.pdf
 file_size: 133947
 file_type: application/pdf
 learning_resource_types:
