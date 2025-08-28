@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding metric spaces, ball neighborhoods,
   open subsets.
-file: /courses/18-100c-real-analysis-fall-2012/71d385d0a8125d9c8a42434933151f86_MIT18_100CF12_l4sum.pdf
+file: /ol-ocw-studio-app/courses/18-100c-real-analysis-fall-2012/71d385d0a8125d9c8a42434933151f86_MIT18_100CF12_l4sum.pdf
 file_size: 590385
 file_type: application/pdf
 learning_resource_types:
